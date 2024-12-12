@@ -1,6 +1,6 @@
 ### Olá! Sou o Pablo 
 
-- 🌱 Estudando JavaScript, HTML, CSS, Python
+- 🌱 Estudando JavaScript, HTML, CSS, Python, Alteryx
 
 <div align="center">
   <a href="https://github.com/Pblm7">
